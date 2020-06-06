@@ -5,21 +5,22 @@
  */
 
 module.exports = {
-  siteMetadata: {
-    title: `Gatsby`,
-    siteUrl: `https://www.gatsbyjs.org`,
-    description: `Blazing fast modern site generator for React`,
-  },
   /* Your site config here */
   plugins: [
     `gatsby-plugin-sass`,
     {
-      resolve: 'gatsby-plugin-web-font-loader',
+      resolve: "gatsby-plugin-web-font-loader",
       options: {
         google: {
-          families: ['Roboto:300,400,500,700,900']
-        }
-      }
-    }
+          families: ["Roboto:300,400,500,700,900"],
+        },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-load-script',
+      options: {
+        src: '/assets/fontawesome/js/all.js', // Change to the script filename
+      },
+    },
   ],
 }

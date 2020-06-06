@@ -1,1 +1,1 @@
-import "./assets/scss/devresume.scss";
+import "./static/assets/scss/devresume.scss";
