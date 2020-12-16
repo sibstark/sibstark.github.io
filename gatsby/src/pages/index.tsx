@@ -273,102 +273,68 @@ export default function Home() {
               <aside className="resume-aside col-12 col-lg-4 col-xl-3 px-lg-4 pb-lg-4">
                 <section className="skills-section py-3">
                   <h3 className="text-uppercase resume-section-heading mb-4">
-                    Skills
+                    Ключевые навыки
                   </h3>
                   <div className="item">
-                    <h4 className="item-title">Technical</h4>
+                    <h4 className="item-title">Технические</h4>
                     <ul className="list-unstyled resume-skills-list">
-                      <li className="mb-2">JavaScript/Angular/React/Vue</li>
-                      <li className="mb-2">Python/Ruby/PHP</li>
-                      <li className="mb-2">Node.js/ASP.NET</li>
-                      <li className="mb-2">PostgreSQL/MySQL</li>
-                      <li className="mb-2">Object-oriented design</li>
+                      <li className="mb-2">JavaScript/React</li>
+                      <li className="mb-2">Redux/MobX</li>
+                      <li className="mb-2">C#/.NET Core/ASP.NET</li>
+                      <li className="mb-2">OOP</li>
                       <li className="mb-2">
-                        Design and implement database structures
+                        Design patterns
                       </li>
-                      <li>Lead and deliver complex software systems</li>
                     </ul>
                   </div>
                   <div className="item">
-                    <h4 className="item-title">Professional</h4>
+                    <h4 className="item-title">Профессиональные</h4>
                     <ul className="list-unstyled resume-skills-list">
-                      <li className="mb-2">Effective communication</li>
-                      <li className="mb-2">Team player</li>
-                      <li className="mb-2">Strong problem solver</li>
-                      <li>Good time management</li>
+                      <li className="mb-2">Эффективная коммуникация</li>
+                      <li className="mb-2">Командный игрок</li>
+                      <li className="mb-2">Самостоятельное решение проблем</li>
+                      <li>Time management</li>
                     </ul>
                   </div>
                 </section>
                 <section className="education-section py-3">
                   <h3 className="text-uppercase resume-section-heading mb-4">
-                    Education
+                    Образование
                   </h3>
                   <ul className="list-unstyled resume-education-list">
                     <li className="mb-3">
                       <div className="resume-degree font-weight-bold">
-                        MSc in Computer Science
+                        Информационные системы и технологии
                       </div>
                       <div className="resume-degree-org text-muted">
-                        University College London
+                        ИКИТ СФУ
                       </div>
                       <div className="resume-degree-time text-muted">
-                        2010 - 2011
+                        2009-2014
                       </div>
-                    </li>
-                    <li>
-                      <div className="resume-degree font-weight-bold">
-                        BSc Maths and Physics
-                      </div>
-                      <div className="resume-degree-org text-muted">
-                        Imperial College London
-                      </div>
-                      <div className="resume-degree-time text-muted">
-                        2007 - 2010
-                      </div>
-                    </li>
-                  </ul>
-                </section>
-                <section className="education-section py-3">
-                  <h3 className="text-uppercase resume-section-heading mb-4">
-                    Awards
-                  </h3>
-                  <ul className="list-unstyled resume-awards-list">
-                    <li className="mb-3">
-                      <div className="font-weight-bold">Award Lorem Ipsum</div>
-                      <div className="text-muted">
-                        Microsoft lorem ipsum (2019)
-                      </div>
-                    </li>
-                    <li>
-                      <div className="font-weight-bold">
-                        Award Donec Sodales
-                      </div>
-                      <div className="text-muted">Oracle Aenean (2017)</div>
                     </li>
                   </ul>
                 </section>
                 <section className="skills-section py-3">
                   <h3 className="text-uppercase resume-section-heading mb-4">
-                    Languages
+                    Языки
                   </h3>
                   <ul className="list-unstyled resume-lang-list">
                     <li className="mb-2">
-                      English <span className="text-muted">(Native)</span>
-                    </li>
-                    <li>
-                      Spanish <span className="text-muted">(Professional)</span>
+                      English <span className="text-muted">(Intermediate)</span>
                     </li>
                   </ul>
                 </section>
                 <section className="skills-section py-3">
                   <h3 className="text-uppercase resume-section-heading mb-4">
-                    Interests
+                    Интересы
                   </h3>
                   <ul className="list-unstyled resume-interests-list mb-0">
                     <li className="mb-2">Climbing</li>
                     <li className="mb-2">Snowboarding</li>
                     <li className="mb-2">Photography</li>
-                    <li>Travelling</li>
+                    <li className="mb-2">Travelling</li>
+                    <li>Crossfit</li>
                   </ul>
                 </section>
               </aside>
