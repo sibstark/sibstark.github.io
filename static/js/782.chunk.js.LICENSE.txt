@@ -1,1 +1,1 @@
-//! moment.js locale configuration
+//! moment.js language configuration

@@ -1,1 +1,1 @@
-(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[831],{2132:function(e,p,d){e.exports=d.p+"static/media/index.js.8570c4e0.flow"}}]);
+(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[831],{1474:function(e,p,d){e.exports=d.p+"static/media/index.js.8570c4e0.flow"}}]);
