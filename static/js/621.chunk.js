@@ -1,0 +1,1 @@
+(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[621],{1402:function(e){e.exports=JSON.parse('{"sideEffects":false,"module":"../../esm/locale/id/index.js","typings":"../../typings.d.ts"}')}}]);
