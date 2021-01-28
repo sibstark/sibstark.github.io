@@ -1,1 +1,1 @@
-(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[884],{1527:function(e,p,d){e.exports=d.p+"static/media/index.js.8570c4e0.flow"}}]);
+(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[884],{2543:function(e,n,t){"use strict";t.r(n),t.d(n,"BasketAgency",(function(){return s}));var c=t(5),u=t.n(c),a=t(2008),i=t(1603),r=t(2009),s=Object(i.b)((function(){return u.a.createElement(a.a,null,(function(e){return u.a.createElement(r.a,Object.assign({booking:!0},e))}))}))}}]);
