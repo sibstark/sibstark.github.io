@@ -1,1 +1,0 @@
-(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[882],{2544:function(e,n,t){"use strict";t.r(n),t.d(n,"BasketAgency",(function(){return s}));var c=t(4),u=t.n(c),a=t(2077),i=t(1715),r=t(2078),s=Object(i.b)((function(){return u.a.createElement(a.a,null,(function(e){return u.a.createElement(r.a,Object.assign({booking:!0},e))}))}))}}]);
