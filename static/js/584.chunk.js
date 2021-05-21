@@ -1,1 +1,1 @@
-(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[584],{1220:function(e){e.exports=JSON.parse('{"sideEffects":false,"module":"../../esm/locale/uk/index.js","typings":"../../typings.d.ts"}')}}]);
+(this["webpackJsonp@mzt/embedded-plugin"]=this["webpackJsonp@mzt/embedded-plugin"]||[]).push([[584],{1222:function(e){e.exports=JSON.parse('{"sideEffects":false,"module":"../../esm/locale/uk/index.js","typings":"../../typings.d.ts"}')}}]);

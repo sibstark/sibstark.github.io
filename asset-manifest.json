@@ -1040,7 +1040,8 @@
     "static/media/logo-white.svg": "https://sibstark.github.io/static/media/logo-white.ff5e9cfc.svg",
     "static/media/logo.svg": "https://sibstark.github.io/static/media/logo.dd179226.svg",
     "static/media/nophoto.svg": "https://sibstark.github.io/static/media/nophoto.7e8dacd6.svg",
-    "static/media/not-authorized.svg": "https://sibstark.github.io/static/media/not-authorized.17ef4760.svg"
+    "static/media/not-authorized.svg": "https://sibstark.github.io/static/media/not-authorized.17ef4760.svg",
+    "static/media/ribbon.png": "https://sibstark.github.io/static/media/ribbon.4e07b7cd.png"
   },
   "entrypoints": [
     "static/css/main.css",
